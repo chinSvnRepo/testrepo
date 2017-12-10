@@ -10,6 +10,7 @@ public Case(String model, String manufacturer, String powerSupply, Dimensions di
 	this.manufacturer = manufacturer;
 	PowerSupply = powerSupply;
 	this.dimensions = dimensions;
+	System.out.println("test for git");
 }
 
 
